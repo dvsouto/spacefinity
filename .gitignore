@@ -6,6 +6,7 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+**/[Ll]ibrary/
 
 # Mac OS X
 .DS_Store
