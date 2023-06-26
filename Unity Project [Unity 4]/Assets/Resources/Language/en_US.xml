@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language lang="en_US">
+	<main_menu>
+		<StartGame label="Start Game" size="24" />
+		<Config label="Configuration" size="22" />
+		<About label="About" size="22" />
+		<BestScore label="BEST SCORE" size="26" />
+	</main_menu>
+	
+	<config_menu>
+		<Configuration label="CONFIGURATION" size="26" />
+		<Quality label="Quality" size="21" />
+		<Performance label="Performance" size="16" />
+		<BestQuality label="Best Quality" size="16" />
+		<Language label="Language" size="21" />
+	</config_menu>
+	
+	<game_over>
+		<PlayAgain label="Play Again" size="62" />
+		<MainMenu label="Main Menu" size="52" />
+	</game_over>
+	
+	<others>
+		<Loading>Loading</Loading>
+		<Copyright>All righst reserved</Copyright>
+		<TouchStart>Touch to\nStart</TouchStart>
+	</others>
+</language>

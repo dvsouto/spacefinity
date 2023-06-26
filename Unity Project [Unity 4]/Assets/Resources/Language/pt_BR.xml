@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language lang="pt_BR">
+	<main_menu>
+		<StartGame label="Iniciar" size="24" />
+		<Config label="Configuraçoes" size="22" />
+		<About label="Sobre" size="22" />
+		<BestScore label="MELHOR PONTUAÇAO" size="20" />
+	</main_menu>
+	
+	<config_menu>
+		<Configuration label="CONFIGURAÇOES" size="26" />
+		<Quality label="Qualidade" size="21" />
+		<Performance label="Performance" size="16" />
+		<BestQuality label="Melhor qualidade" size="15" />
+		<Language label="Idioma" size="21" />
+	</config_menu>
+	
+	<game_over>
+		<PlayAgain label="Jogar Novamente" size="58" />
+		<MainMenu label="Menu Principal" size="48" />
+	</game_over>
+	
+	<others>
+		<Loading>Carregando</Loading>
+		<Copyright>Todos os direitos reservados</Copyright>
+		<TouchStart>Touch to\nStart</TouchStart>
+		<TouchStart>Toque para\nComeçar</TouchStart>
+	</others>
+</language>
